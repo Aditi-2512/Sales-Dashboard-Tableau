@@ -24,3 +24,5 @@ No. | Customer ID | Customer Name | Total Orders | Total Sales
 8 | ME-17320 | Maria Etezadi | 22 | 10,663
 9 | EH-13765 | Edward Hooks | 32 | 10,310
 10 | JL-15835 |	John Lee | 34 |	9,799
+
+## Recommendation & Next Steps
