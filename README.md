@@ -26,3 +26,6 @@ No. | Customer ID | Customer Name | Total Orders | Total Sales
 10 | JL-15835 |	John Lee | 34 |	9,799
 
 ## Recommendation & Next Steps
+- We have many loyal customers who have purchased from us in all these years. We should target frequent and high-value customers with Loyalty programs and special offers.
+- Examine why there is a steep dip in sales in the starting months of each year and expand this analysis to include more data to get better insights. Are there any campaigns that we can run to prevent this downfall?
+- While sales of machines have remained stable, there has been a decrease in sales in the years 2021 and 2023 . Is there any product feature that can combat this dip? 
