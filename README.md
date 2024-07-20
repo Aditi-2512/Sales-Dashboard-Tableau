@@ -1,4 +1,9 @@
 # Sales-Dashboard-Tableau
+Analyzing sales from 2020-2023 and building an interactive dashboard.
+
+![Sales Dashboard](https://github.com/user-attachments/assets/f7d94de1-3ca5-4582-b1ba-ca4780b93009)
+# Customer Dashboard:
+![Customer Dashboard](https://github.com/user-attachments/assets/4c217a87-2680-4ab6-8011-4373adf582bc)
 ## Key Metrics and Dimensions
 The dataset that is used to build this dashboard has been taken from the Tableau tutorial video by Data with Baraa. Special thanks to Baraa for all of his tableau tutorials!
 - **Customers:** Customer ID, Customer Name
